@@ -1,2 +1,3 @@
 # Hackathon Demo App
-Frontend + Backend ready
+Frontend + Backend ready  
+Built during hackathon
