@@ -1,2 +1,2 @@
 # Hackathon Demo App
-Learning Git & GitHub step by step.
+Built during hackathon
